@@ -1,17 +1,22 @@
 Ángel Argueta
+Professional Profile
+I am a technology-driven professional with a strong focus on cybersecurity. Passionate about the ever-evolving digital landscape, I am committed to protecting information assets and critical infrastructures through innovative, reliable, and strategic security solutions.
 
-Soy un entusiasta de la tecnología con un enfoque particular en ciberseguridad y robótica avanzada. Me motiva el constante avance del entorno digital y su impacto transformador en todos los sectores, especialmente en la protección de la información y el desarrollo de soluciones automatizadas.
+Cybersecurity Focus
+In today’s interconnected world, cybersecurity is no longer optional—it is essential. My interest lies in understanding and mitigating digital threats that target systems, networks, and data. I am particularly focused on:
 
+Threat detection and response
 
-Ciberseguridad
-En la era digital, la ciberseguridad se ha vuelto crítica para garantizar la integridad, confidencialidad y disponibilidad de la información. Me apasiona la protección de sistemas contra amenazas cibernéticas, desarrollando soluciones estratégicas que aseguren infraestructuras tanto públicas como privadas. Aspiro a contribuir en entornos de alta exigencia tecnológica, donde la seguridad es un componente vital.
+Vulnerability management
 
+Security best practices and frameworks
 
-Intereses Tecnológicos
-Robótica
-La robótica representa una de las disciplinas más fascinantes de la ingeniería moderna. Su capacidad para automatizar procesos, aumentar la eficiencia operativa y reducir errores humanos la convierte en un pilar esencial para el futuro de la industria, la medicina, la exploración espacial y la defensa.
+Risk analysis and mitigation
 
+Incident response and recovery planning
 
-Objetivo Profesional
-Desarrollarme como un profesional integral en tecnologías emergentes, con una visión estratégica orientada a la innovación, la seguridad informática y el desarrollo de sistemas inteligentes. Busco contribuir en proyectos de alto impacto que promuevan la evolución tecnológica con responsabilidad y excelencia.
+I firmly believe in the importance of proactive defense, continuous learning, and adherence to ethical standards in the pursuit of secure digital environments.
+
+Career Objective
+To become a leading cybersecurity specialist capable of safeguarding organizations against evolving cyber threats. My goal is to contribute to high-impact, mission-critical projects that demand precision, confidentiality, and strategic thinking. I aim to grow in environments where security excellence and innovation are top priorities.
 
